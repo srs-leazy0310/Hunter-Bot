@@ -29,5 +29,8 @@ const app = new express(port, ready, text)
 ## Credits
 
 - 1st credit to: ****me****
+  - discord: ****```@Star_Angel44100#0154```****
 - 2nd credit to: ****my friend****
+  - discord: ****```@PS MΔne 83ץ#0666```****
 - 3rd credit to: ****my working team****
+  - website: soon
